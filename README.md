@@ -2,5 +2,5 @@
 
 **Learning Git & GitHub w/ BongoDev**
 
-## Authos: Mir Fahim
+## Author: Mir Fahim
 
